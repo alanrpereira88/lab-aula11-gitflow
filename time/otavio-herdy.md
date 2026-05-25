@@ -1,20 +1,18 @@
-# [Seu Nome Completo]
+# Otávio Herdy Vitor
 
 ## Sobre mim
 
-Estudante de Ciência da Computação na Univértix, [N]º período.
+Estudante de Ciência da Computação na Univértix, [7]º período.
 
 ## Objetivos com DevOps
 
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
+- Melhorar meu conhecimento no DevOps
 
 ## Tecnologias que já uso
 
-- [Tecnologia 1]
-- [Tecnologia 2]
+- React
+- Python
 
 ## Contato
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@ottaviorr](https://github.com/ottaviorr)
