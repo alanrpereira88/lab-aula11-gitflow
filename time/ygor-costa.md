@@ -14,6 +14,7 @@ Estudante de Ciência da Computação na Univértix, 7º período.
 
 * Git
 * Python
+* JavaScript
 
 ## Contato
 
